@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+}
+.nz {
+    outline-color: pink;
+    background-color: yellowgreen;
+    border-color:#000000;
+    font-size: large;
+    padding: 2px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-style: solid;
+    border-top-style: none;
+}
+span {
+    color: white;
+    background-color: gray;
+}
+#ye {
+    background-color: red;
+    color: white
+}
+
